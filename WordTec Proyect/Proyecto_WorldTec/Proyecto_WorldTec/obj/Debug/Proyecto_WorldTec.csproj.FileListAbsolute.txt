@@ -1,0 +1,17 @@
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\bin\Debug\Proyecto_WorldTec.exe.config
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\bin\Debug\Proyecto_WorldTec.exe
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\bin\Debug\Proyecto_WorldTec.pdb
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.csprojResolveAssemblyReference.cache
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormClientes.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormFacturas.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormLogin.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormMenu.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormProductos.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormReporteClientes.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormReporteProductos.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormReporteVentas.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.FormUsuarios.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.Properties.Resources.resources
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.csproj.GenerateResource.Cache
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.exe
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\Proyecto_WorldTec\obj\Debug\Proyecto_WorldTec.pdb
