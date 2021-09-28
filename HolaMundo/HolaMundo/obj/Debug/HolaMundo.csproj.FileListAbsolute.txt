@@ -1,0 +1,9 @@
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Properties.Resources.resources
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.GenerateResource.Cache
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\jflores\Documents\LP3\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
