@@ -1,0 +1,5 @@
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\BL_WorldTec\bin\Debug\BL_WorldTec.dll
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\BL_WorldTec\bin\Debug\BL_WorldTec.pdb
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\BL_WorldTec\obj\Debug\BL_WorldTec.csprojResolveAssemblyReference.cache
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\BL_WorldTec\obj\Debug\BL_WorldTec.dll
+C:\Users\jflores\Documents\LP3\Ventas\WordTec Proyect\Proyecto_WorldTec\BL_WorldTec\obj\Debug\BL_WorldTec.pdb
